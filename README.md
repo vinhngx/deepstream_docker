@@ -1,2 +1,2 @@
-# deepstream_docker
+# Deepstream Docker
 A dockerized NVIDIA DeepStream SDK
